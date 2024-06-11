@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\assets\\scripts\\createenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|c:\\users\\robot\\documents\\dungeonsanddragonsv3\\dungeonsanddragons\\assets\\scripts\\unitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|c:\\users\\robot\\documents\\dungeonsanddragonsv3\\dungeonsanddragons\\assets\\scripts\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|c:\\users\\robot\\documents\\dungeonsanddragonsv3\\dungeonsanddragons\\assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|c:\\users\\robot\\documents\\dungeonsanddragonsv3\\dungeonsanddragons\\assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\assets\\scripts\\createcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D70CC4-A325-A8F0-7C60-FC6A720A4540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GridGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridGenerator.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridGenerator.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:04:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalVars.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\GlobalVars.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalVars.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\GlobalVars.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalVars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:04:01.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMap.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateMap.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateMap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:01:08.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitControl.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\UnitControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitControl.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\UnitControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:48:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:48:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateEnemy.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateEnemy.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAUwDwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:22:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateCharacter.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\CreateCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAABSAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T17:21:54.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\robot\\Documents\\DungeonsAndDragonsV3\\DungeonsAndDragons\\Assets\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAA1AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T17:19:14.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

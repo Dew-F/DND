@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0566c49fb3d360f47889f761a34d438e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _prefabCharacter: {instanceID: 0}
+  - wallobj: {fileID: 8632399599628671802, guid: 9b387aa68ead02440b4997547002193f, type: 3}
+  - _meshRenderer: {fileID: 6429956920301820390, guid: 4823a6153d1a72843b7817e32a5cc38c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
